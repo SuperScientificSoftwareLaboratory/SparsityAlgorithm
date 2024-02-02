@@ -10,4 +10,4 @@ Source code of the DATE '24 paper: "Efficient Spectral-Aware Power Supply Noise 
 
 ## Contact us
 If you have any questions about running the code, please contact Xiaoyu Yang. \
-E-mail: xiaoyuyang@student.cup.edu.cn
+E-mail: yangxiaoyu@student.cup.edu.cn
